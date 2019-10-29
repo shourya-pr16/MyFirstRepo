@@ -1,5 +1,12 @@
 Hey There!!!
+<<<<<<< HEAD
 <Line 1 from machine User>
 <Line 2 from machine User>
 <Line 3 from machine User>
 <Line 4 from machine User>
+=======
+Line 1 from github
+Line 2 from github
+Line 3 from github
+Line 4 from github
+>>>>>>> 8c5d42d487d88b5aaca019bfb2a991c4f2fa9c9c
