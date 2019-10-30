@@ -18,6 +18,11 @@ branch 1
 Console based change 
 Console Based change
 
+change through console in branch 2
+change through console in branch 2
+change through console in branch 2
+change through console in branch 2
+change through console in branch 2
 
 >>>>>>> branch-2
 branch 2
